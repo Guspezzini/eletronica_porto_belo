@@ -216,7 +216,7 @@ a {
     position: absolute !important;
     
     /* CONTROLE DE POSIÇÃO (Ajuste estes valores para mover) */
-    right: -130px ;    /* Distância do canto direito da tela */
+    right: -125px ;    /* Distância do canto direito da tela */
     bottom: -70px !important;   /* Distância do fundo da seção verde */
     
     /* CONTROLE DE TAMANHO */
